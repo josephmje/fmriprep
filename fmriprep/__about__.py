@@ -101,7 +101,6 @@ REQUIRES = [
     'niworkflows==0.5.1',
     'statsmodels',
     'seaborn',
-    'indexed_gzip>=0.8.2',
     'scikit-image',
     'versioneer',
     'pyyaml',
